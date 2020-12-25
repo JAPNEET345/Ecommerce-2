@@ -1,1 +1,1 @@
-# Ecommerce-2 It is a complete responsive ecommerce website made with HTML CSS and Javascript
+It is a complete responsive ecommerce website made with HTML CSS and Javascript
